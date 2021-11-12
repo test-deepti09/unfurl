@@ -8,7 +8,7 @@
 *.elf
 
 # Linker output
-*.ilk
+*.ilkhjumj
 *.map
 *.exp
 
